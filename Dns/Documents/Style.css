@@ -1,0 +1,152 @@
+body {
+    background: linear-gradient(270deg, #e3ffff, #e8fff3);
+    background-size: 1200% 1200%;
+
+    -webkit-animation: AnimationName 10s ease infinite;
+    -moz-animation: AnimationName 10s ease infinite;
+    animation: AnimationName 10s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+.button:hover {
+    width:fit-content;
+    padding: 3px;
+    background:rgba(0,0,0,.5);
+    color:white;
+    border-radius: 5px;
+    cursor:pointer;
+}
+#bt2:hover {
+    width:fit-content;
+    padding: 3px;
+    background:rgba(0,0,0,.5);
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.title {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    background: linear-gradient(270deg, #eeaeca, #cfb2d5, #94bbe9, #cfb2d5, #eeaeca, #ffffff);
+    background-size: 1200% 1200%;
+
+    -webkit-animation: AnimationName 10s ease infinite;
+    -moz-animation: AnimationName 10s ease infinite;
+    animation: AnimationName 10s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+h2 {
+    width:fit-content;
+    padding: 10px;
+    background:rgba(112, 173, 216, 0.5);
+    border-radius: 10px;
+}
+
+h3 {
+    width:fit-content;
+    padding: 10px;
+    background:rgba(152, 112, 216, 0.5);
+    border-radius: 10px;
+}
+
+hr {
+    margin-top: 20px;
+    height: 15px;
+    background:rgba(112, 169, 216, 0.5);
+    color:rgba(112, 169, 216, 0.5);
+    border-radius: 20px;
+}
+
+table {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    width: auto;
+    height: auto;
+    z-index: 10;
+}
+
+table, th {
+    border-radius: 15px;
+    padding: 5px;
+    background: linear-gradient(270deg, #eeaeca, #cfb2d5, #94bbe9, #cfb2d5, #eeaeca, #ffffff);
+    background-size: 1200% 1200%;
+
+    -webkit-animation: AnimationName 10s ease infinite;
+    -moz-animation: AnimationName 10s ease infinite;
+    animation: AnimationName 10s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+table, td {
+    padding-left: 5px;
+}
+
+img:hover {
+    animation-duration: 2s;
+    animation-name: bounceIn;
+    animation-direction: alternate;
+}
+
+@keyframes bounceIn {
+    0% {
+      transform: scale(1);
+      opacity: 0;
+    }
+    60% {
+      transform: scale(1.5);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
