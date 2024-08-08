@@ -1,6 +1,28 @@
 # Domain-Name-System
 DNS For gaming and low ping
 
+<br>
+
+### :person_curly_hair: Amirhossein arabahmadi
+ ___
+  
+<pre>
+<p>Prerequisites and libraries are installed automatically
+
+Please pay attention to capitalization of words
+And <b>read the contents of the page carefully</b>
+</p>
+</pre>
+ 
+ ### :cd: Installation :
+ ___
+* Windows:
+  * Download Win32 from [here](https://www.python.org/downloads/release/python-38)
+    * Download Win64 from [here](https://www.python.org/downloads/release/python-38)
+  * Launch
+
+<br>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
