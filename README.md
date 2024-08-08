@@ -314,3 +314,15 @@ And <b>read the contents of the page carefully</b>
  
 </body>
 
+ ### :feelsgood: : Donate :
+ ___
+ 
+ <details><summary>CLICK ME</summary>
+<p>
+
+#### Wallet :
+
+[Show address](https://github.com/amirdecoder#feelsgood-donate)
+
+</p>
+</details>
