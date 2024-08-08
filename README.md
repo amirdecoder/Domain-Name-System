@@ -23,6 +23,17 @@ And <b>read the contents of the page carefully</b>
 
 <br>
 
+ ### :framed_picture: screenshot
+ ___
+ 
+<table>
+  <tr>
+    <td>
+     <img align="center" src="https://github.com/amirdecoder/File/blob/main/Domain-Name-System/Screenshot/Screenshot%202024-08-09%20030231.png" />
+   </td>
+  </tr>
+</table>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
