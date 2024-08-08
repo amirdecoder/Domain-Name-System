@@ -17,8 +17,8 @@ And <b>read the contents of the page carefully</b>
  ### :cd: Installation :
  ___
 * Windows:
-  * Download Win32 from [here](https://www.python.org/downloads/release/python-38)
-    * Download Win64 from [here](https://www.python.org/downloads/release/python-38)
+  * Download Win32 from [here](https://raw.githubusercontent.com/amirdecoder/Domain-Name-System/main/App/Dns_Win32.exe)
+    * Download Win64 from [here](https://raw.githubusercontent.com/amirdecoder/Domain-Name-System/main/App/Dns_Win64.exe)
   * Launch
 
 <br>
