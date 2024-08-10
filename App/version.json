@@ -1,6 +1,6 @@
 {
     "version": "1.1.0",
-    "download_url_32": "https://raw.githubusercontent.com/amirdecoder/Domain-Name-System/main/App/Dns_Win64.exe",
-    "download_url_64": "https://raw.githubusercontent.com/amirdecoder/Domain-Name-System/main/App/Dns_Win32.exe",
+    "download_url_64": "https://raw.githubusercontent.com/amirdecoder/Domain-Name-System/main/App/Dns_Win64.exe",
+    "download_url_32": "https://raw.githubusercontent.com/amirdecoder/Domain-Name-System/main/App/Dns_Win32.exe",
     "changelog": "Added new feature X, improved performance."
   }
